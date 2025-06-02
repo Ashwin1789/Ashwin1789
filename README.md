@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashwin Venkatesan</h1>
+**<h1 align="center">Hi 👋, I'm Ashwin Venkatesan</h1>
 <h3 align="center">A passionate Software Developer ( MERN Stack ) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin1789&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin1789" /> </p>
@@ -71,3 +71,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwin1789&show_icons=true&locale=en" alt="ashwin1789" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin1789&" alt="ashwin1789" /></p>
+**
